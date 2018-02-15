@@ -1,13 +1,13 @@
 Module name              By Who          associated modules            status
 --------------------------------------------------------------------------------
-design                    Omar                  -                        
-Operations                Rozan               design
-+                         Rozan               Operations                         
--                         Rozan               Operations             
-*                         Rozan               Operations    
-/                         Rozan               Operations             
-Reset                     Omar                design
-Delete                    Omar                design
-Outputs                   Rozan               operations,design
-inputs                    Omar                design
-div by 0                  Omar                Operations
+design                    Omar                  -                      working
+Operations                Rozan               design                   working
++                         Rozan               Operations               working                         
+-                         Rozan               Operations               working         
+*                         Rozan               Operations               working 
+/                         Rozan               Operations               working          
+Reset                     Omar                design                   working
+Delete                    Omar                design                   working
+Outputs                   Rozan               operations,design        working
+inputs                    Omar                design                   working
+div by 0                  Omar                Operations               working
