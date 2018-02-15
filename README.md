@@ -20,8 +20,14 @@ Yerelde değişiklik olması durumunda aşağıdaki işlemler yapılabiir
 Tüm kodları yeniden klonlama
 Yerel değişiklikleri geri alıp siteden verileri çekme(Uyarı: yapmış olduğunuz tüm değişiklerin kaybolmasına neden olacaktır!!!)
 git reset --hard
+
 git pull origin master
+
 Yerel değişiklikleri onaylayıp(commit) güncel verileri çekme(Bu yöntemde github üzerindeki kodlar ile yereldeki kodlar üzerinde çakışma(conflict) olması durumunda yerel ve uzak kodları birleştirme(merge) gerekecektir. Daha detaylı bilgi için bkz: 1, 2 ve 3):
+
 git add -A
+
 git commit -m "Commit mesajı"
+
 git pull origin master
+
