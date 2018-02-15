@@ -1,1 +1,12 @@
-
+Module name              By Who          associated modules            status
+--------------------------------------------------------------------------------
+design                    Omar                  -                        
+Operations                Rozan               design
++                         Rozan               Operations                         
+-                         Rozan               Operations             
+*                         Rozan               Operations    
+/                         Rozan               Operations             
+Reset                     Omar                design
+Delete                    Omar                design
+Outputs                   Rozan               operations,design
+inputs                    Omar                design
