@@ -1,0 +1,10 @@
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\obj\Debug\HesapMakinasiRozanMustafa.csprojResolveAssemblyReference.cache
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\obj\Debug\HesapMakinasiRozanMustafa.Form1.resources
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\obj\Debug\HesapMakinasiRozanMustafa.Properties.Resources.resources
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\obj\Debug\HesapMakinasiRozanMustafa.csproj.GenerateResource.Cache
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\obj\Debug\HesapMakinasiRozanMustafa.csproj.CoreCompileInputs.cache
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\bin\Debug\HesapMakinasiRozanMustafa.exe.config
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\bin\Debug\HesapMakinasiRozanMustafa.exe
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\bin\Debug\HesapMakinasiRozanMustafa.pdb
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\obj\Debug\HesapMakinasiRozanMustafa.exe
+C:\Users\rojan\source\repos\HesapMakinasiRozanMustafa\HesapMakinasiRozanMustafa\obj\Debug\HesapMakinasiRozanMustafa.pdb
