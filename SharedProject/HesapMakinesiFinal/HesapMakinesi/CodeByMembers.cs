@@ -110,7 +110,11 @@ namespace HesapMakinesi
             if (isaret == 4)
             {
 
-               
+               //by omar
+                if (Convert.ToInt32(textgirdi2) == 0)
+                    MessageBox.Show("Divided by zero error");
+                else
+                    textBox1.Text = (girdi1 / Convert.ToInt32(textgirdi2)).ToString();
                
 
             }
