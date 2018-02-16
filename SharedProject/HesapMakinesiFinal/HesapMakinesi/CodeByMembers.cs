@@ -101,7 +101,19 @@ namespace HesapMakinesi
         // = button
         private void button15_Click(object sender, EventArgs e)
         {
-           
+           if (isaret == 1)
+                textBox1.Text = (girdi1 + Convert.ToInt32(textgirdi2)).ToString();
+            if (isaret == 2)
+                textBox1.Text = (girdi1 - Convert.ToInt32(textgirdi2)).ToString();
+            if (isaret == 3)
+                textBox1.Text = (girdi1 * Convert.ToInt32(textgirdi2)).ToString();
+            if (isaret == 4)
+            {
+
+               
+               
+
+            }
 
         }
         // Reset button
