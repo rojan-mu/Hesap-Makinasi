@@ -42,12 +42,17 @@ namespace HesapMakinesi
         private void button11_Click(object sender, EventArgs e)
         {
 
-
+             girdi1 = Convert.ToInt32(textBox1.Text.ToString());
+            textBox1.Text = textBox1.Text + "+";
+            islem = 1;
+            isaret = 1;
         }
         // 2 button
         private void button2_Click(object sender, EventArgs e)
         {
-            
+                textBox1.Text = textBox1.Text + "2";
+            if (islem == 1)
+                textgirdi2 = textgirdi2 + "2";
         }
         // 3 button
         private void button3_Click(object sender, EventArgs e)
