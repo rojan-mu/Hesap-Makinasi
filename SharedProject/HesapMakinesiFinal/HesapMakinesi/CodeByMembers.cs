@@ -12,7 +12,12 @@ namespace HesapMakinesi
 {
     public partial class Form1 : Form
     {
-       
+       int girdi1 = 0;
+        int girdi2 = 0;
+        string textgirdi2 = "";
+        string textgirdi1 = "";
+        int islem = 0;// 1 for + , 2 for - , 3 for * , 4 for /
+        int isaret = 0;
         public Form1()
         {
             InitializeComponent();
