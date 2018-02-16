@@ -71,17 +71,23 @@ namespace HesapMakinesi
         // 5 button
         private void button5_Click(object sender, EventArgs e)
         {
-       
+        textBox1.Text = textBox1.Text + "5";
+            if (islem == 1)
+                textgirdi2 = textgirdi2 + "5";
         }
         // 6 button
         private void button4_Click(object sender, EventArgs e)
         {
-           
+            textBox1.Text = textBox1.Text + "6";
+            if (islem == 1)
+                textgirdi2 = textgirdi2 + "6";
         }
         // 7 button
         private void button9_Click(object sender, EventArgs e)
         {
-           
+            textBox1.Text = textBox1.Text + "7";
+            if (islem == 1)
+                textgirdi2 = textgirdi2 + "7";
         }
         // 8 button
         private void button8_Click(object sender, EventArgs e)
