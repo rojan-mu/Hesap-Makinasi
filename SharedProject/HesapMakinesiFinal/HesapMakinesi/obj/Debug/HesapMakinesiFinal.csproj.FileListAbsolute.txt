@@ -1,0 +1,9 @@
+C:\Users\omar1\source\repos\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\omar1\source\repos\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\omar1\source\repos\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\omar1\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\omar1\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\omar1\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesiFinal.csproj.GenerateResource.Cache
+C:\Users\omar1\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesiFinal.csproj.CoreCompileInputs.cache
+C:\Users\omar1\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\omar1\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
