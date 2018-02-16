@@ -92,28 +92,41 @@ namespace HesapMakinesi
         // 8 button
         private void button8_Click(object sender, EventArgs e)
         {
-           
+           textBox1.Text = textBox1.Text + "8";
+            if (islem == 1)
+                textgirdi2 = textgirdi2 + "8";
         }
         // 9 button
         private void button7_Click(object sender, EventArgs e)
         {
-           
+           textBox1.Text = textBox1.Text + "9";
+            if (islem == 1)
+                textgirdi2 = textgirdi2 + "9";
         }
         // 0 button
         private void button10_Click(object sender, EventArgs e)
         {
-           
+           textBox1.Text = textBox1.Text + "0";
+            if (islem == 1)
+                textgirdi2 = textgirdi2 + "0";
         }
         // * button
         private void button14_Click(object sender, EventArgs e)
         {
-
+            girdi1 = Convert.ToInt32(textBox1.Text);
+            textBox1.Text = textBox1.Text + "*";
+            islem = 1;
+            isaret = 3;
 
         }
         // / button
         private void button13_Click(object sender, EventArgs e)
         {
-           
+            girdi1 = Convert.ToInt32(textBox1.Text);
+
+            textBox1.Text = textBox1.Text + "/";
+            islem = 1;
+            isaret = 4;
         }
         // = button
         private void button15_Click(object sender, EventArgs e)
@@ -151,7 +164,11 @@ namespace HesapMakinesi
         // - button
         private void button12_Click(object sender, EventArgs e)
         {
-           
+            girdi1 = Convert.ToInt32(textBox1.Text);
+
+            textBox1.Text = textBox1.Text + "-";
+            islem = 1;
+            isaret = 2;
         }
     }
 }
