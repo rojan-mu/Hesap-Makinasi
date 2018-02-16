@@ -32,7 +32,9 @@ namespace HesapMakinesi
         private void button1_Click(object sender, EventArgs e)
         {
             
-           
+            textBox1.Text = textBox1.Text + "1";
+            if (islem == 1)
+                textgirdi2 = textgirdi2 + "1";
             
 
         }
