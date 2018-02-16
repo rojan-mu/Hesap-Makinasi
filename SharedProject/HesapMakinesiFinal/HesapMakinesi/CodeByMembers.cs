@@ -107,7 +107,13 @@ namespace HesapMakinesi
         // Reset button
         private void button16_Click(object sender, EventArgs e)
         {
-           
+             textBox1.Text = "";
+            textgirdi1 = "";
+            textgirdi2 = "";
+            girdi1 = 0;
+            girdi2 = 0;
+            isaret = 0;
+            islem = 0;
         }
         // - button
         private void button12_Click(object sender, EventArgs e)
